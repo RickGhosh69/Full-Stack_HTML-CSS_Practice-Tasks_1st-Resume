@@ -1,0 +1,201 @@
+@font-face {
+    font-family: machina;
+    src: url(./font/NeueMachina-Light_gwWCZxVuQl.ttf);
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+    background-color: whitesmoke;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    color: whitesmoke;
+    padding-top: 35px;
+    padding-bottom: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h6 {
+    text-align: center;
+    text-transform: capitalize;
+    color: whitesmoke;
+    padding-bottom: 20px;
+    font-family: 'machina';
+    font-weight: 100;
+    font-style: oblique;
+    font-size: small;
+}
+
+#top {
+    background-color: #1b2435;
+}
+
+#bottom {
+    background-color: #1b2435;
+    margin-top: 50px;
+    padding-top: 20px;
+}
+
+.topic {
+    text-transform: uppercase;
+    color: rgb(4, 4, 4);
+    padding-top: 35px;
+    padding-bottom: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.inside-topic_1 {
+    text-align: center;
+    text-transform: capitalize;
+    color: rgb(1, 1, 1);
+    background-color: aliceblue;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    margin: 5px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 3px;
+}
+
+.inside-topic_2 {
+    text-align: center;
+    text-transform: uppercase;
+    color: rgb(1, 1, 1);
+    background-color: aliceblue;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    margin: 5px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 3px;
+}
+
+.inside-topic_3 {
+    text-align: center;
+    text-transform: none;
+    color: rgb(1, 1, 1);
+    background-color: aliceblue;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    font-style: oblique;
+    margin: 5px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 3px;
+}
+
+.inside-topic_4 {
+    text-align: center;
+    text-transform: none;
+    color: rgb(1, 1, 1);
+    background-color: aliceblue;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    margin: 5px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 3px;
+}
+
+p {
+    text-transform: capitalize;
+    color: rgb(103, 98, 98);
+    padding-bottom: 15px;
+    font-family: 'machina';
+    font-weight: 100;
+    font-size: small;
+}
+
+#about {
+    background-color: white;
+    margin-top: 30px;
+    text-align: center;
+    font-size: large;
+    padding: 10px;
+    padding-bottom: 20px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    border: 2px;
+
+}
+
+#education {
+    background-color: rgb(188, 243, 254);
+    margin-top: 30px;
+    text-align: center;
+    font-size: large;
+    padding: 10px;
+    padding-bottom: 20px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    border: 2px;
+
+}
+
+#skills {
+    background-color: rgb(223, 246, 90);
+    margin-top: 30px;
+    text-align: center;
+    font-size: large;
+    padding: 10px;
+    padding-bottom: 20px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    border: 2px;
+
+}
+
+#projects {
+    background-color: rgb(239, 174, 247);
+    margin-top: 30px;
+    text-align: center;
+    font-size: large;
+    padding: 10px;
+    padding-bottom: 20px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    border: 2px;
+
+}
+
+#contact {
+    background-color: rgb(198, 247, 174);
+    margin-top: 30px;
+    text-align: center;
+    font-size: large;
+    padding: 10px;
+    padding-bottom: 20px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    border: 2px;
+
+}
